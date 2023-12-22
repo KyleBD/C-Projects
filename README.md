@@ -5,6 +5,12 @@ The projects include:
 * Data Base Parser
 * Grocery Store Register Simulation
 
-## Getting Started
+## Utilizing Code
+### Connect Four
 
+
+### Data Base Parser
+
+
+### Grocery Store Register Simulation
 
